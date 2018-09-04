@@ -1,2 +1,2 @@
-# SecurityDecorator_Java_OOP
+# security-decorator-demo
 Implementation of decorators for both functionality and security
